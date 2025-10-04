@@ -15,8 +15,8 @@ In the BOM, designator J1 is a `CONNECTOR_PINSOCKET_2.54MM:PINSOCKET_1X04_P2.54M
 [YouTube](https://www.youtube.com/watch?v=z0qgIMWR7R4)
 
 ## Photos
-![PCB Editor](https://raw.githubusercontent.com/RadioactivePotato/pi-i2c-hat/refs/heads/main/design-files/PCB_26-04-2025.png)
+![PCB Editor](design-files/PCB_26-04-2025.png)
 
-![PCB Front Preview](https://raw.githubusercontent.com/RadioactivePotato/pi-i2c-hat/refs/heads/main/design-files/PCBFpreview_26-04-2025.png)
+![PCB Front Preview](design-files/PCBFpreview_26-04-2025.png)
 
-![PCB Back Preview](https://raw.githubusercontent.com/RadioactivePotato/pi-i2c-hat/refs/heads/main/design-files/PCBBpreview_26-04-2025.png)
+![PCB Back Preview](design-files/PCBBpreview_26-04-2025.png)
